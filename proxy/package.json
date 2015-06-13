@@ -16,7 +16,7 @@
     "apiaxle-proxy-event-subscriber": "./apiaxle-proxy-event-subscriber.js"
   },
   "dependencies": {
-    "apiaxle-base": "1.12.35",
+    "apiaxle-base": "./base",
     "libxmljs": "0.14.x",
     "lodash": "~2.2.1",
     "sinon": "~1.6.0",

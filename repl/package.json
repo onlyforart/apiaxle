@@ -22,9 +22,9 @@
   "dependencies": {
     "lodash": "~1.2.0",
     "tokenizer": "~0.1.2",
-    "apiaxle-base": "1.12.35",
+    "apiaxle-base": "./base",
     "libxmljs": "0.14.x",
-    "apiaxle-api": "1.12.35",
+    "apiaxle-api": "./api",
     "sinon": "~1.6.0",
     "twerp": "~1.0.7",
     "stdin": "0.0.1",
